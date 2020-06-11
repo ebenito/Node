@@ -1,7 +1,7 @@
 # Node
 Ejercicios de Node.js del curso backend de GeeksHub
 
-> > Para ejecutar, desde consola de node.js, y desde el directorio raiz:
+> Para ejecutar, desde consola de node.js, y desde el directorio raiz:
 
 ```javascript
   $ node param/string_name.js Antonio Vargas Heredia
@@ -29,9 +29,9 @@ $ node process/app.js
 > >   external: 959814,<br />
 > >   arrayBuffers: 9382<br />
 >  }<br />
+>
 >  Process ID (PID): 8160<br />
 >  Tiempo ejecuccion del script:  0.0545603<br />
-```
 
 
 ```javascript
